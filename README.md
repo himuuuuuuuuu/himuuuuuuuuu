@@ -4,9 +4,6 @@ I'm
 Software Engineer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development  Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive), Server Administrator(Azure),database(MongoDB,Mysql,sql), CI/CD(Docker, kubernetes) 
 
-
-![Visitor Count](https://profile-counter.glitch.me/himanshu jain/count.svg)
-
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
