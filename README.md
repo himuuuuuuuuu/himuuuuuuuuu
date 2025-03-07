@@ -28,7 +28,7 @@
 - 👀 I’m interested in [Fullstack Web. Developing](https://www.geeksforgeeks.org/what-is-full-stack-development/) and [Software dEV](https://en.wikipedia.org/wiki/Software_development)
 - 🌱 I’m currently learning FullStack Web Development
 - 💞️ I’m trying make some good Personal Projects now a days
-- 📫 Skilled in Python, JavaScript,Html,Css.React Js
+- 📫 Skilled in Python, JavaScript,Html,Css.ReactJs
 
 <br>
 
@@ -89,7 +89,7 @@
       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ayush-sleeping&show_icons=true&theme=react&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-sleeping&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himuuuuuuuuu&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </div>
      </details>
@@ -102,7 +102,7 @@
      <br />
      <div>
      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-sleeping&theme=react&border=61dafb&hide_border=true" />
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himuuuuuuuuu&theme=react&border=61dafb&hide_border=true" />
     </a>
      </div>
 </details>
@@ -113,7 +113,7 @@
      <summary><b>📊 GitHub Graphs </b></summary>
      <br />
      <div>
-          <img src="https://activity-graph.herokuapp.com/graph?username=ayush-sleeping&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+          <img src="https://activity-graph.herokuapp.com/graph?username=[himuuuuuuuuu]&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
      </div>
 </details>
 
@@ -126,6 +126,6 @@
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/ayush-sleeping) 
-[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
-[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/ayush-sleeping)
+[![Stay Motivated](https://img.shields.io/badge/Stay-Motivated-teal.svg?style=for-the-badge)](https://github.com/himuuuuuuuuu) 
+[![Think Big](https://img.shields.io/badge/Think-Big-orange.svg?style=for-the-badge)](https://github.com/himuuuuuuuuu)
+[![Work Hard](https://img.shields.io/badge/Work-Hard-blue.svg?style=for-the-badge)](https://github.com/himuuuuuuuuu)
